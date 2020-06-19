@@ -7,9 +7,9 @@ dset/..
 	Validation data set for testing -> 100 images, 10 random images per class
 src/DistractedDriving.ipynb
 	Source file with project experiments
-model.pth
+model.pth (Not present due to file size)
 	Weights for model with 15 epochs training
-model0.pth
+model0.pth (Not present due to file size)
 	Weights for model with 1 epochs training
 project.ipynb
 	Demonstration Notebook
